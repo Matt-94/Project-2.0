@@ -309,8 +309,8 @@ button:focus {
   font-size: 14px;
   margin-top: 0;
   }
-  nav a {
-  font-size: 24px;
+  nav li {
+  font-size: 26px;
   }
   footer {
   display: flex;
@@ -318,5 +318,5 @@ button:focus {
   align-items: center;
   }
   footer a {
-  font-size: 22px;
+  font-size: 26px;
 }
